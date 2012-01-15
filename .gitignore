@@ -1,0 +1,7 @@
+*.class
+*.apk
+out/*
+*.DS_Store
+.project
+.classpath
+project.properties
